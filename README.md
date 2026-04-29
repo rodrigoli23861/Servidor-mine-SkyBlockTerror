@@ -1,2 +1,0 @@
-# Servidor-mine-SkyBlockTerror
-SkyBlockTerror
